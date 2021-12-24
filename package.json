@@ -1,0 +1,21 @@
+{
+  "name": "xenia-test-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.3",
+    "axios": "^0.24.0",
+    "jest-playwright-preset": "^1.7.0",
+    "playwright": "^1.11.1"
+  }
+}
